@@ -1,5 +1,0 @@
-# vars file for limits
----
-limits_pam_files:
-  - /etc/pam.d/common-session
-  - /etc/pam.d/common-session-noninteractive
